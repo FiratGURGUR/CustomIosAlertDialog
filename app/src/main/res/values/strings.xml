@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Ios Alert Dialog</string>
+    <string name="exit_title">Uyarı</string>
+    <string name="exit_desc">Uygulamadan çıkış yapmak istediğine emin misin?</string>
+</resources>
