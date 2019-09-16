@@ -2,10 +2,8 @@
 
 ### Usage
 
-  
-    | ------------- | ------------- |
-    | exit_title.setText(R.string.exit_title); |
-    | exit_desc.setText(R.string.exit_desc);  |
+     exit_title.setText(R.string.exit_title); 
+     exit_desc.setText(R.string.exit_desc);  
 
 
 
